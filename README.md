@@ -14,7 +14,9 @@ We've yet to get much of anything online yet but if you'd like to get involved e
 -mpmckenna8@gmail.com
 
 
+
 About the files:
+
 biocharcountries.png
 
 Map of Biochar supportive countries in .png format. Needs to have the following put into a legend, I was thinking just a

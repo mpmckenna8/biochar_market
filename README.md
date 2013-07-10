@@ -29,3 +29,10 @@ adaptation tool in a post Kyoto agreement are colored green and are
 labeled.
 
 See http://www.biochar-international.org/policy/international
+
+
+An idea for a cool geo visualisation would be to take the pH biochar data and match it to soil types which are already
+available.  See UC Davis biochar research for pH info and other resources.
+
+There are many soil experts out there and I'm not one of em' so I gotta look into it. The Climate Corporation might be a 
+good place to start.
